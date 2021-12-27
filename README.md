@@ -1,5 +1,6 @@
 # radar_area
-calc the area of some radars
+Calculate the coverage area of multiple radars
+
 ## Summary
 Many times, we need to calculate the radar coverage. If we use mathematical formulas to calculate, we will face a lot of mathematical problems. Therefore, I propose a simple and effective algorithm for processing: judging by the situation of circular coverage.
 
@@ -22,7 +23,7 @@ const radars = [
     { x: 21950, y: 22170, r: 850 },
 ]
 ```
-then, run it !
+then, run it and Enjoy !
 ```
 node index.js
 Area:  2269689 <--- Final results

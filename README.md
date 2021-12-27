@@ -5,7 +5,6 @@ Calculate the coverage area of multiple radars
 Many times, we need to calculate the radar coverage. If we use mathematical formulas to calculate, we will face a lot of mathematical problems. Therefore, I propose a simple and effective algorithm for processing: judging by the situation of circular coverage.
 
 ![avatar](./radars.png)
-![avatar][base64str]
 
 ## Working principle
 1. First, calculate the circumferences of all circles to obtain a rectangle

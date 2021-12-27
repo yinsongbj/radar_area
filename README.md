@@ -3,7 +3,7 @@ calc the area of some radars
 
 ## desc
 build some radar's params, such as:
-```
+```nodejs
 const radars = [
     { x: 22175, y: 22133, r: 300 },
     { x: 22170, y: 22200, r: 500 },
